@@ -64,3 +64,8 @@ The main knobs in the parameter file (see `params/input_dwarf_01solar_mass.txt`)
 - **Resolution:** `N_HALO`, `N_DISK`, `N_GAS`, `N_BULGE`
 
 See the comments in the file for details.
+
+## License
+
+GNU General Public License v2, like GADGET-2 and the original MakeDiskGalaxy. See [LICENSE](LICENSE).
+The routines in `src/nrsrc/` are from *Numerical Recipes in C* and are not covered by this license.
