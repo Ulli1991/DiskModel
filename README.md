@@ -67,5 +67,5 @@ See the comments in the file for details.
 
 ## License
 
-GNU General Public License v2, like GADGET-2 and the original MakeDiskGalaxy. See [LICENSE](LICENSE).
+GNU General Public License v3, like GADGET-4. See [LICENSE](LICENSE).
 The routines in `src/nrsrc/` are from *Numerical Recipes in C* and are not covered by this license.
