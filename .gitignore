@@ -1,0 +1,27 @@
+# Build products
+build/
+*.o
+MakeDiskGalaxy
+MakeETGalaxy
+
+# Generated initial conditions and diagnostics (large!)
+ics/
+*.dat
+*.eqs
+*.sd
+*.gsd
+*.vc
+cummass.txt
+out.log
+err.log
+
+# Local junk
+attic/
+*~
+\#*\#
+.DS_Store
+._*
+
+# Only one example parameter file is tracked; the rest stay local
+params/*
+!params/input_dwarf_01solar_mass.txt
