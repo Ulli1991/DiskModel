@@ -65,6 +65,18 @@ The main knobs in the parameter file (see `params/input_dwarf_01solar_mass.txt`)
 
 See the comments in the file for details.
 
+## Citation
+
+If you use this code in published work, please cite the papers it is based on:
+
+- Springel V., White S. D. M., 1999, MNRAS, 307, 162 - *Tidal tails in cold dark matter cosmologies*
+  (disk galaxy model and IC method)
+- Springel V., Hernquist L., 2003, MNRAS, 339, 289 - *Cosmological smoothed particle hydrodynamics
+  simulations: a hybrid multiphase model for star formation* (effective equation of state used for
+  the gas disk)
+- Springel V., Di Matteo T., Hernquist L., 2005, MNRAS, 361, 776 - *Modelling feedback from stars
+  and black holes in galaxy mergers* (gas disks in hydrostatic equilibrium, MakeDiskGalaxy)
+
 ## License
 
 GNU General Public License v3, like GADGET-4. See [LICENSE](LICENSE).
